@@ -1,2 +1,25 @@
-# Supply-Chain-Proposal-and-Contract-Template-Pack
-Streamline your supply chain operations with this comprehensive proposal and contract template pack, designed for procurement professionals, logistics managers, and business owners. This pack includes professionally crafted, editable templates for creating detailed supply chain proposals, vendor agreements, and contractual documents. Each template 
+# Supply Chain Proposal and Contract Template Pack
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/bJeaEXaDd8Is9JKcDWcZX3M)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/bJeaEXaDd8Is9JKcDWcZX3M)
+
